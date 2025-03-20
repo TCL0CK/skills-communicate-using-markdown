@@ -67,6 +67,12 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 <footer>
 
+# guess im typing my headings in the footer.
+## i love you!
+### yi long ma!
+#### heading four
+##### heading five
+###### heading six
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
